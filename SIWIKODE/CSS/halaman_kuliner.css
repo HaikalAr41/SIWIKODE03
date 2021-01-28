@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+  }
+    .gambar1 {
+        padding-left: 25px;
+        width: 350px;
+        height: 200px;
+    }
+    
+    .gambar2 {
+        float: left;
+        width: 150px;
+        height: 150px;
+        margin: 5px;
+    }
+
+    .h3 {
+        padding-top: 5px;
+        padding-left: 25px;
+    }
+    
+    .card-text {
+        text-align: justify;
+    }
+
+    .text {
+        text-align: justify;
+    }
+
+    footer {
+	bottom: 0;
+	padding: 20px 15px;
+	width: 100%;
+	background-color: black;
+	color: white;
+  }
+
+  .kanan {
+      text-align: right;
+  }
+
+  .container {
+    background-color: aliceblue;
+    height: 750px;
+  }

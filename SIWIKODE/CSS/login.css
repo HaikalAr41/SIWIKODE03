@@ -1,0 +1,34 @@
+.nav-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: cursive ;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  *{
+    box-sizing: border-box;
+  }
+
+  .container {
+            background :aliceblue;
+            border-radius :7px;
+            box-shadow :0 3px 5px rgba (0,0,0,0);
+            width :400px;
+            height: 300px;
+            min-width :100px;
+            overflow: hidden;   
+        }
+
+  footer {
+	bottom: 0;
+	padding: 20px 15px;
+	width: 100%;
+	background-color:black;
+	color:white;
+}

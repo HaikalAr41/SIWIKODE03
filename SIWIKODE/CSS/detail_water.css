@@ -1,0 +1,56 @@
+    
+  h1 {
+    text-align: center;
+    font-family: cursive;
+  }
+  .gambar {
+    width: 150px;
+    height: 100px;
+    margin: 15px;
+  }
+  fieldset{
+    background-color: aliceblue;
+  }
+
+  .map {
+    float: right;
+    width: 200px;
+    height: 100px;
+  }
+
+  .text {
+    text-align: justify;
+    margin-right: 5px;
+  }
+
+  .artis {
+    float: left;
+    width:100px ;
+    height: 70px;
+    margin-right: 10px;
+  }
+
+  .card-text {
+    text-align: justify;
+    margin-left: 5px;
+  }
+
+  footer {
+bottom: 0;
+padding: 20px 15px;
+width: 100%;
+background-color: black;
+color: white;
+}
+
+.kanan {
+  text-align: right;
+}
+
+legend {
+  padding-left: 15px;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
